@@ -24,8 +24,6 @@ private:
 };
 
 char UserInsert(std::string);
-std::string InputErrorAlphabet();
-std::string InputErrorExisting(std::string);
 void Solving(std::string, std::string);
 
 #endif
